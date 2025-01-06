@@ -1,0 +1,1 @@
+As for pushing in the remote reposittory forst add git remote add origin <link>
