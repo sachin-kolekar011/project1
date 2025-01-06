@@ -1,0 +1,2 @@
+this is simple file added in the project folder 
+added new line in the file1
